@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Sinchana TR
 I am a Computer Science Student
 I am currnetly intrested in projects in Full Stack and AI.
 My Linkdin profile is [Linkdin](https://www.linkedin.com/in/sinchana-tr-383029297/)
